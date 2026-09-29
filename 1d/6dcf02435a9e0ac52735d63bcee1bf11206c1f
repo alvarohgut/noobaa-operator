@@ -1,0 +1,14 @@
+pkg/system/phase4_configuring.go
+  h_94bd5c4ba77556 1800-1802
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "1d6dcf02435a9e0ac52735d63bcee1bf11206c1f",
+  "prompts": {},
+  "humans": {
+    "h_94bd5c4ba77556": {
+      "author": "Alvaro Hormigos <alvarohg@inditex.com>"
+    }
+  }
+}
